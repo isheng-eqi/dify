@@ -429,6 +429,7 @@ export const zOpenApiErrorCode = z.enum([
   'unknown',
   'unsupported_file_type',
   'unsupported_media_type',
+  'upgrade_required',
 ])
 
 /**
